@@ -40,5 +40,18 @@ plane {
 
 sphere {
     <0, 0, 0>, 1 // <x, y, z>, radius
+    
+    texture {
+        pigment { 
+            Yellow
+        }
+    }
+    finish {
+        diffuse 0.7
+        ambient 0.3
+        specular 0.7
+        roughness 0.003
+        reflection 0.4
+    }
 }
 

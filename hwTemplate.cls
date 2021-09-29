@@ -5,7 +5,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage{lmodern}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{tikz}
